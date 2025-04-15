@@ -1,7 +1,6 @@
-// Force redeploy
 import React from "react";
 import ReactDOM from "react-dom/client";
-import LagGenerator from "./Laggenerator.jsx"; // <- stor L
+import LagGenerator from "./Laggenerator.jsx"; // merk stor G
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
