@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import LagGenerator from "./Laggenerator.jsx"; // merk stor G
+import LagGenerator from "./TeamGenerator.jsx";
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
