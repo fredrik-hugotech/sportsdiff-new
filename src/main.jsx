@@ -1,7 +1,8 @@
-import './index.css';
+// Force redeploy
 import React from "react";
 import ReactDOM from "react-dom/client";
-import LagGenerator from "./Laggenerator.jsx";
+import LagGenerator from "./Laggenerator.jsx"; // <- stor L
+import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
