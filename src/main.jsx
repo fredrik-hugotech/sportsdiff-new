@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import LagGenerator from "./LagGenerator.jsx"; // Merk: stor L og filnavn må matche
+import LagGenerator from "./LagGenerator.jsx"; // <- viktig!
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
